@@ -1,6 +1,6 @@
 {
   "name": "@obsolog/js",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "src/index.ts",
   "repository": "https://github.com/mariusflorescu/obsolog-js",
   "author": "Marius Florescu (mariusflorescu)",
