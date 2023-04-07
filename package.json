@@ -1,0 +1,26 @@
+{
+  "name": "@obsolog/js",
+  "version": "0.0.1",
+  "main": "src/index.ts",
+  "repository": "https://github.com/mariusflorescu/obsolog-js",
+  "author": "Marius Florescu (mariusflorescu)",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --watch --dts",
+    "clean": "rm -rf node_modules && rm -rf dist",
+    "lint": "eslint \"src/**/*.ts*\"",
+    "format": "prettier --write \"**/*.{js,ts}\""
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0",
+    "prettier": "^2.8.7",
+    "tsup": "^6.7.0",
+    "typescript": "^5.0.3"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
