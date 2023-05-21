@@ -1,10 +1,11 @@
 {
-  "name": "@obsolog/js",
+  "name": "obsolog-js",
   "version": "1.0.0",
   "main": "src/index.ts",
   "repository": "https://github.com/mariusflorescu/obsolog-js",
   "author": "Marius Florescu (mariusflorescu)",
   "license": "MIT",
+  "private": false,
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "dev": "tsup src/index.ts --format esm,cjs --watch --dts",
