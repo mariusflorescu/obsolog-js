@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/mariusflorescu/obsolog-js/compare/v1.1.2...v1.1.3) (2023-05-21)
+
+
+### Bug Fixes
+
+* lint error ([09fed54](https://github.com/mariusflorescu/obsolog-js/commit/09fed5403eb941d0c42d71b16bc14864541f74bf))
+
 ## [1.1.2](https://github.com/mariusflorescu/obsolog-js/compare/v1.1.1...v1.1.2) (2023-05-21)
 
 
