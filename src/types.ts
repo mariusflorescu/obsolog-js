@@ -4,7 +4,6 @@ export type Settings = {
 
 export type ObsologEvent = {
   channel: string
-  icon?: string
   name: string
   description?: string
   user?: string
