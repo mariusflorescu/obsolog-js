@@ -17,7 +17,7 @@ export default class Obsolog {
   }
 
   public async trackEvent(event: ObsologEvent) {
-    const method = 'GET'
+    const method = 'POST'
     const headers = this.createFetchHeaders()
     const body = JSON.stringify(event)
 
