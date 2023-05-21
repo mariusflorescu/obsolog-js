@@ -30,4 +30,4 @@ export default class Obsolog {
   }
 }
 
-export { ObsologEvent }
+export type { ObsologEvent }
