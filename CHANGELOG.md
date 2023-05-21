@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.2](https://github.com/mariusflorescu/obsolog-js/compare/v1.1.1...v1.1.2) (2023-05-21)
+
+
+### Bug Fixes
+
+* url ([54753bb](https://github.com/mariusflorescu/obsolog-js/commit/54753bb7564326a6f0ad2286055c59f4962dbbd0))
+
+
+### Miscellaneous Chores
+
+* release 1.1.2 ([5a248e7](https://github.com/mariusflorescu/obsolog-js/commit/5a248e746b4da5f08219fd6cea3f73a47b6d4124))
+
 ## [1.1.1](https://github.com/mariusflorescu/obsolog-js/compare/v1.1.0...v1.1.1) (2023-05-21)
 
 
